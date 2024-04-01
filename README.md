@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bodhisatya or @rommxl
-- 👀 I’m interested in Data Science, Machine learning and especially Deep Learning which I'm still learning about
-- 🌱 I’m currently learning Deep learning and Machine learning using python
-- 💞️ I’m looking to collaborate on Deep Learning projects, especially those that involve Image Processing
+- 👋 I am Bodhisatya Ghosh or @rommxl
+- 👀 I’m passionate about topics related to Machine learning, Deep learning and Data science
+- 🌱 I have worked upon multiple projects based on Deep learning and Web development, gaining experience regarding collaborative work and project building
+- 💞️ Open to collaborate for any projects related to deep learning/machine learning/web development/ any python related project
 - 📫 Reach me at @rommxl on instagram or at bodhisatya.ghosh299@gmail.com
 
 <!---
